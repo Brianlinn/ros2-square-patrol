@@ -1,0 +1,9 @@
+float64 patrol_distance
+int32 laps
+int32 edge_number
+---
+bool success
+string message
+---
+int32 completed_edge
+string state
